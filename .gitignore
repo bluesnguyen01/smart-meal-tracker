@@ -1,0 +1,24 @@
+# dữ liệu và trọng số lớn
+data/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+runs/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# bí mật
+.env
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+
+# hệ điều hành, IDE
+.DS_Store
+.idea/
+.vscode/
